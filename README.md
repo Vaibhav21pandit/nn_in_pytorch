@@ -1,4 +1,4 @@
-# nn_in_pytorch \
+# nn_in_pytorch 
 This repo contains notebooks where I've implemented different architectures of Neural Networks.
 
 CNNs- \
