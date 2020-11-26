@@ -4,8 +4,8 @@ This repo contains notebooks where I've implemented different architectures of N
 CNNs- \
   :heavy_check_mark: LeNet \
   :heavy_check_mark: VGG-16 \
-  :white_large_square: AlexNet \
-  :white_large_square: Inception \
+  :heavy_check_mark: AlexNet \
+  :heavy_check_mark: Inception \
   :white_large_square: ResNet  \
   :white_large_square: DenseNet \
   :white_large_square: MobileNet \
