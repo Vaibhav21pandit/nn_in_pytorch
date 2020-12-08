@@ -12,7 +12,11 @@ CNNs- \
   :white_large_square: CapsuleNet \
   :white_large_square: ECANet
 
- :white_large_square: RNN 
+ :white_large_square: RNN
+ 
+ :white_large_square: LSTM
+ 
+ :white_large_square: GRU
 
  :white_large_square: Transformer 
 
